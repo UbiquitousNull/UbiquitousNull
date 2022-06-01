@@ -6,7 +6,7 @@
    -----------------------
 -  I’m currently learning basic SQL and DataBases in SQL Server using SSMS(SQL Server Management Studio)
    -----------------------
--  I’m looking to collaborate on. . . I don't know contact me I'll have to make a decision after some discussion or it might end right there and then due to extenuating 	circumstances 
+-  I’m not looking to collaborate <!---looking to collaborate on. . . I don't know contact me I'll have to make a decision after some discussion or it might end right there and then due to extenuating circumstances -->
    -----------------------
 -  How to reach me UbiquitousNull001@gmail.com
 
